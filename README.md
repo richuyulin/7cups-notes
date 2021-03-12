@@ -1,37 +1,14 @@
-## Welcome to GitHub Pages
+## richuyulin's 7Cups Notes
 
-You can use the [editor on GitHub](https://github.com/richuyulin/lin-7cups-notes/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Disclaimer: This is by no means an official version of any guide on 7Cups. This is just a collections of notes put together by [richuyulin](https://www.7cups.com/@richuyulin).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### General Knowledge
 
-### Markdown
+- [Handling Crisis Situation](https://www.7cups.com/forum/ListenerLearningJourney_149/ChatSupport_101/CrisisChatsAReminderForAll_224116/) (listener only)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- [Community Mod Schedule](https://www.7cups.com/forum/SafetyKnowledgeat7Cups_181/CommunityModeratorWeeklySchedule_1640/CommunityModScheduleWeekofJan06_214569/)
+- [Emergency Mod Request Form](https://docs.google.com/forms/d/e/1FAIpQLScRXkwrrPicWRzUvBPYq2wrblHE5HexqFmVA3k3B4QLEoNyHw/viewform)
+- [Badges Required to Unlock Rooms](https://www.7cups.com/forum/GroupSupport_168/ASilentObserversOffice_2008/BadgesRequiredtoUnlockSupportRooms_213011/)
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/richuyulin/lin-7cups-notes/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+- [Members Welcome Pack](https://docs.google.com/document/d/1CL9Yu_6zixlapOjdrhCgKLy9JN5wY3HWdrGH7PIO2WI/edit)
+- [Listener Welcome Pack](https://docs.google.com/document/d/1dJwbNslw0nzUKqts1caZ477H3p4tpKQnB6Fkgg1QR44/edit)
