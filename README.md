@@ -1,6 +1,6 @@
 Note: Please contact [richuyulin](https://www.7cups.com/@richuyulin) if any of the information here needs to be updated.
 
-Last updated: March 12th, 2021
+Last updated: March 14th, 2021
 
 ## General Knowledge
 
@@ -9,6 +9,7 @@ Last updated: March 12th, 2021
 
 - [Community Mod Schedule](https://www.7cups.com/forum/SafetyKnowledgeat7Cups_181/CommunityModeratorWeeklySchedule_1640/CommunityModScheduleWeekofJan06_214569/)
 - [Badges Required to Unlock Rooms](https://www.7cups.com/forum/GroupSupport_168/ASilentObserversOffice_2008/BadgesRequiredtoUnlockSupportRooms_213011/)
+- [Room Change Schedule](https://www.7cups.com/forum/GroupModZone_168/ObsDesk_2008/GroupSupportUpdatesIII_214932/)
 
 - [Emergency Mod Request Form - Member Rooms](https://docs.google.com/forms/d/e/1FAIpQLScRXkwrrPicWRzUvBPYq2wrblHE5HexqFmVA3k3B4QLEoNyHw/viewform)
 - [Emergency Mod Request Form - Listener Rooms](https://docs.google.com/forms/d/e/1FAIpQLSdbTKhyciRmZn_tzhTQ8DsRXJLXt_a9UB7z80DM9M_NvTRJMA/viewform)
@@ -18,7 +19,7 @@ Last updated: March 12th, 2021
 
 - [Introduction to Forums](https://www.7cups.com/forum/CommunityProjectsEvents_184/SubcommunitiesLeadership_686/GetToKnowOurForumsMasterpost_233634/)
 
-- [Timezone Converter](https://www.worldtimebuddy.com/)
+- [Timezone Converter](https://rarelycharlie.github.io/7cupstime)
 
 ## Sharing Circle
 
@@ -33,8 +34,8 @@ Last updated: March 12th, 2021
 - [Sharing Circle Host Training](https://www.7cups.com/forum/GroupSupport_168/MemberSharingCircleandHealthyHabits_2109/UpcomingTrainingSessionsForSharingCircleHosts_239134/)
 
 - [Sharing Circle Script](https://docs.google.com/document/d/17vTLxzLnJYtrrA8OgdkOQGXJLuFgs2fZZbVU1M1kFOk/edit)
-- [Sharing Circle Guidelines - Docs](https://docs.google.com/document/d/1fxLXp-4sm9aPNOikfQeflFmmfxrFo54bKiRSCv7Lbag/edit)
-- [Sharing Circle Guidelines - Image](https://prnt.sc/v416b3)
+- [Sharing Circle Guidelines - Docs](https://docs.google.com/document/d/1peAqUMvhyQjTz3QtXH50ep6livrpCa97IKokm5y9mNA/edit)
+- [Sharing Circle Guidelines - Image](https://prnt.sc/v416b3) (not working at the moment)
 
 - [Healthy Habits Script](https://docs.google.com/document/d/1wX0lXZZtVoiE8naZYAeV7VzVLjdGwSvQo_g3gtR3dQk/edit)
 - [Healthy Habits Guidelines](https://prnt.sc/v6023w)
@@ -47,6 +48,15 @@ Last updated: March 12th, 2021
 - [Pop-up Discussion Hosting Info](https://www.7cups.com/forum/GroupSupport_168/PopUpGroupDiscussions_2110/PopupdiscussionsarebackTrial_226825/)
 - [Pop-up Disccusion Script - Member and Adult Listeners](https://docs.google.com/document/d/1jRiJQIqfXYtw8biZ13_6VNepYS09hxMCtg8yWEqz8Ro/edit#)
 - [Pop-up Discussion Script - Teen Listeners](https://docs.google.com/document/d/1hL9B9-hZJGvn8agsQzLq1vkUtH1x5ndmZo3c1oIBOcM/edit#heading=h.rcmqinrxbul3)
+
+## Listener Sharing Circle
+
+- [Host Schedule](https://docs.google.com/spreadsheets/d/1Re6pO5Ap3bdI6S5ph8JhmSSsc7L9E6YQmmgVToYXHQM/edit?ts=5f45bcab#gid=0)
+- [Host Manual](https://docs.google.com/document/d/1CRUzskEbc93XIT1WKesG86K14c5IEapogdm-WqINOC0/edit)
+- [Apply to be Host](https://docs.google.com/forms/d/e/1FAIpQLSdQbOA0iKRYuu6y113ZWaC0s3xnAWVAiaRUwdcUM1LQqfmjNQ/viewform)
+
+- [Listener Sharing Circle Script](https://docs.google.com/document/d/1s6RtVFc3M8feof-WWc6EWUIMf30-_0oZUXlfzu0_OVY/edit?ts=6033c210)
+- [Listener Sharing Circle Guidelines](https://docs.google.com/document/d/1G8H001vJm33vTco4H5m2N0vUKLGrVZNA_TbQfctNw4g/edit)
 
 ## Listener Resources
 
