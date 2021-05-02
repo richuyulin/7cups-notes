@@ -1,6 +1,6 @@
 Note: Please contact [richuyulin](https://www.7cups.com/@richuyulin) if any of the information here needs to be updated.
 
-Last updated: March 14th, 2021
+Last updated: May 1st, 2021
 
 ## General Knowledge
 
@@ -13,6 +13,10 @@ Last updated: March 14th, 2021
 
 - [Emergency Mod Request Form - Member Rooms](https://docs.google.com/forms/d/e/1FAIpQLScRXkwrrPicWRzUvBPYq2wrblHE5HexqFmVA3k3B4QLEoNyHw/viewform)
 - [Emergency Mod Request Form - Listener Rooms](https://docs.google.com/forms/d/e/1FAIpQLSdbTKhyciRmZn_tzhTQ8DsRXJLXt_a9UB7z80DM9M_NvTRJMA/viewform)
+
+- [The Oath Masterpost](https://www.7cups.com/forum/SafetyKnowledge7Cups_181/CommunityGuidelines_1374/TheOathMasterpost_42069/1/)
+- [Member Oath](https://www.7cups.com/forum/NewbieHub_27/7CupsofTeaMissionCoreValues_207/MemberOathAllEncouragedtoParticipate_7447/1/)
+- [Listener Oath](https://www.7cups.com/forum/ListenerLearningJourney_149/CommunityGuidelinesMissionandCoreValues_141/ListenerOath_117/1/)
 
 - [New Member Self Intro](https://www.7cups.com/forum/NewbieHub_27/WelcomeIntroductionsto7Cups_1163/MembersWelcometo7CupsIntroduceyourselfHere_227534/1/)
 - [Members Welcome Pack](https://docs.google.com/document/d/1CL9Yu_6zixlapOjdrhCgKLy9JN5wY3HWdrGH7PIO2WI/edit)
@@ -35,13 +39,21 @@ Last updated: March 14th, 2021
 
 - [Sharing Circle Script](https://docs.google.com/document/d/17vTLxzLnJYtrrA8OgdkOQGXJLuFgs2fZZbVU1M1kFOk/edit)
 - [Sharing Circle Guidelines - Docs](https://docs.google.com/document/d/1peAqUMvhyQjTz3QtXH50ep6livrpCa97IKokm5y9mNA/edit)
-- [Sharing Circle Guidelines - Image](https://prnt.sc/v416b3) (not working at the moment)
 
 - [Healthy Habits Script](https://docs.google.com/document/d/1wX0lXZZtVoiE8naZYAeV7VzVLjdGwSvQo_g3gtR3dQk/edit)
 - [Healthy Habits Guidelines](https://prnt.sc/v6023w)
 
 - [Member Power Sharing Circle Info - Docs](https://docs.google.com/document/d/1X-QIdDJb6R2HeS90ZuWtiQ86GMkgWjL7J9WESSZZW00/edit)
 - [Member Power Sharing Circle Info - Image](https://prnt.sc/100161g)
+
+## Support Room 24/7
+
+- [SR Coverage Project Info](https://www.7cups.com/forum/NewbieHub_27/UpdatesAnnouncements_2058/SupportRoom247Coverage_243184/1/)
+- [SR Coverage Schedule](https://docs.google.com/spreadsheets/d/155bxwDdIkmO_2Q3g3WcV_Ws2ciOYuDmFX6wi3EyqxEM/edit#gid=0)
+
+- [SR Check-in Info](https://www.7cups.com/forum/GroupSupport_168/CommunityManagersOffice_2008/TherapeuticSupportCheckins_241120/)
+- [SR Check-in Script](https://docs.google.com/document/d/1zY5kpdzuA2qxJpQYCuU29A7M0FnfRhe-IRbcaAZAl4s/edit)
+- [SR Check-in Host Log](https://docs.google.com/forms/d/e/1FAIpQLSfkbPTScPVS3vvYWiVO4IJLTcXxmEpRjDt8i8y6MQnxivkDXA/viewform)
 
 ## Pop-up Discussions
 
@@ -66,7 +78,6 @@ Last updated: March 14th, 2021
 - [Listener Primer](https://docs.google.com/document/d/1XlzXbiX0sOiTvIkyikekCvRJdai20cN3pkbF2NMuFKY/edit)
 - [Acronyms Explained](https://www.7cups.com/forum/ListenerLearningJourney_149/ListenerResources_61/TheABCsof7Cups_229878/1/#2616133)
 
-- [Listener Oath](https://www.7cups.com/forum/ListenerLearningJourney_149/CommunityGuidelinesMissionandCoreValues_141/ListenerOath_117/1/)
 - [How to Become a Verified Listener](https://www.7cups.com/forum/ListenerLearningJourney_149/ListenerVerificationProject_1839/IWanttobeaVerifiedListener_46935/1/)
 
 - [Chat Support FAQ](https://docs.google.com/document/d/1jf7BqGrwkY0zFhU3PKaAaRVCoEd6O2TD0vNhuiRHRD8/edit)
