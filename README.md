@@ -1,6 +1,6 @@
 Note: Please contact [richuyulin](https://www.7cups.com/@richuyulin) if any of the information here needs to be updated.
 
-Last updated: May 1st, 2021
+Last updated: May 2nd, 2021
 
 ## General Knowledge
 
@@ -25,6 +25,14 @@ Last updated: May 1st, 2021
 
 - [Timezone Converter](https://rarelycharlie.github.io/7cupstime)
 
+- [#ByeByeClique Challenge Info](https://www.7cups.com/forum/GroupSupport_168/CommunityManagersOffice_2008/WarmWelcomeEveryoneByeByeCliqueChallenge_238987/)
+- [#ByeByeClique Challenge Log](https://docs.google.com/forms/d/e/1FAIpQLSfpLH4OmVMOsN3OdeUYTOK06L6hQdVn21PZJI56cH5eOcbwKg/viewform)
+
+## Community Rooms (MCR/TCR)
+
+- [Community Rooms Fun Activities Info](https://www.7cups.com/forum/GroupSupport_168/CommunityManagersOffice_2008/CommunityRoomsFunActivities_242504/)
+- [Community Rooms Fun Activities Script](https://docs.google.com/document/d/1441WYfax-NtzN5SScJbXrexZyc7S-_P0rD2415Q-JbA/edit)
+
 ## Sharing Circle
 
 - [Basic Intro to Sharing Circle Video](https://www.youtube.com/watch?v=B16BVGcEbF4)
@@ -35,7 +43,6 @@ Last updated: May 1st, 2021
 - [Host Schedule - Adult](https://docs.google.com/spreadsheets/d/1NL2vmymJlZJEekFZRX1cSON0XRvgBKNdB0ayOYUJS2k/edit#gid=0)
 - [Host Schedule - Teens](https://docs.google.com/spreadsheets/d/1RLAzntJGOpNjf1cMxhPNCorHvtp0p9RnJ7c2f9kUmbc/edit#gid=101764704)
 - [Apply to be Host](https://docs.google.com/forms/d/e/1FAIpQLSfPe2N1QUjB_KEFF_EhAtZymtydkkIFlruU7u0lC35q4eTztA/viewform)
-- [Sharing Circle Host Training](https://www.7cups.com/forum/GroupSupport_168/MemberSharingCircleandHealthyHabits_2109/UpcomingTrainingSessionsForSharingCircleHosts_239134/)
 
 - [Sharing Circle Script](https://docs.google.com/document/d/17vTLxzLnJYtrrA8OgdkOQGXJLuFgs2fZZbVU1M1kFOk/edit)
 - [Sharing Circle Guidelines - Docs](https://docs.google.com/document/d/1peAqUMvhyQjTz3QtXH50ep6livrpCa97IKokm5y9mNA/edit)
@@ -60,6 +67,12 @@ Last updated: May 1st, 2021
 - [Pop-up Discussion Hosting Info](https://www.7cups.com/forum/GroupSupport_168/PopUpGroupDiscussions_2110/PopupdiscussionsarebackTrial_226825/)
 - [Pop-up Disccusion Script - Member and Adult Listeners](https://docs.google.com/document/d/1jRiJQIqfXYtw8biZ13_6VNepYS09hxMCtg8yWEqz8Ro/edit#)
 - [Pop-up Discussion Script - Teen Listeners](https://docs.google.com/document/d/1hL9B9-hZJGvn8agsQzLq1vkUtH1x5ndmZo3c1oIBOcM/edit#heading=h.rcmqinrxbul3)
+
+## Listener Support Room
+
+- [Adult Listener Check-in Info](https://www.7cups.com/forum/ListenerLearningJourney_149/AdministratorsCorner_1627/IntroducingAdultListenerCheckinsintheListenerSupportRoom_234097/)
+- [Adult Listener Check-in Sign-up and Script](https://docs.google.com/spreadsheets/d/1zDbDRRXxaVwj2BzpTXHE2oNMSFDhbRcKwe1N_zPM2go/edit#gid=0)
+- [Adult Listener Check-in Log](https://docs.google.com/forms/d/e/1FAIpQLSeP3_71Egv7hlLJhEelM5U-zZw-VVjjEQsPoMe2M96haXF3gA/viewform)
 
 ## Listener Sharing Circle
 
