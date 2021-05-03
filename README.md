@@ -67,6 +67,7 @@ Last updated: May 2nd, 2021
 - [Pop-up Discussion Hosting Info](https://www.7cups.com/forum/GroupSupport_168/PopUpGroupDiscussions_2110/PopupdiscussionsarebackTrial_226825/)
 - [Pop-up Disccusion Script - Member and Adult Listeners](https://docs.google.com/document/d/1jRiJQIqfXYtw8biZ13_6VNepYS09hxMCtg8yWEqz8Ro/edit#)
 - [Pop-up Discussion Script - Teen Listeners](https://docs.google.com/document/d/1hL9B9-hZJGvn8agsQzLq1vkUtH1x5ndmZo3c1oIBOcM/edit#heading=h.rcmqinrxbul3)
+- [Pop-up Discussion Log](https://docs.google.com/forms/d/e/1FAIpQLSftzC1C2EFg54DfilBt2IrmJLM4dTW37Ome0G89Vet6FZRsvw/viewform)
 
 ## Listener Support Room
 
